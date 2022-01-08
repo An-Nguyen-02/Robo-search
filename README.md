@@ -1,3 +1,8 @@
-# Robo-search
-
-This app provide a searcher for existed robots from https://jsonplaceholder.typicode.com/users
+# Robo Search
+## Descriptions:
+This app is the initial version with minimal features. Itt provide a searcher for existed robots from https://jsonplaceholder.typicode.com/users
+## How to use:
+1. Clone this repo
+2. Run `npm install`
+3. Run `npm update`
+4. Run `npm start`
